@@ -26,7 +26,7 @@ export default function CarritoPage() {
 
 
 
-  const whatsappNumber = "573156642398";
+  const whatsappNumber = "573245826840";
 
 
 
