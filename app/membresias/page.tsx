@@ -555,7 +555,7 @@ export default function MembresiasPage() {
 
 
                <a
-  href={`https://wa.me/573156642398?text=${encodeURIComponent(
+  href={`https://wa.me/573245826840?text=${encodeURIComponent(
     `Hola Velnox 👋, quiero comprar ${seleccionado.nombre} - ${plan.nombre} por ${plan.precio}`
   )}`}
   target="_blank"
